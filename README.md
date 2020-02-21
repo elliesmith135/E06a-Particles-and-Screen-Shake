@@ -1,5 +1,7 @@
 # E06a-Particles-and-Screen-Shake
 
+This exercise helped me learn how to implement Particle2D nodes in Godot.  I imported stars, fire, and snow into Godot.  I was able to change their timing and appreance using different controls.  
+
 As with other exercises, Fork and Clone this repository.
 
 This exercise is an opportunity to experiment with the Particles2D node in Godot and to give you a script with which you can implement screen shake.
